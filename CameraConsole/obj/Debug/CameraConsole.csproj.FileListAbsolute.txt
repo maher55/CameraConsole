@@ -1,0 +1,12 @@
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\bin\Debug\CameraConsole.exe.config
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\bin\Debug\CameraConsole.exe
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\bin\Debug\CameraConsole.pdb
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\obj\Debug\CameraConsole.csprojAssemblyReference.cache
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\obj\Debug\CameraConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\obj\Debug\CameraConsole.exe
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\obj\Debug\CameraConsole.pdb
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\obj\Debug\CameraConsole.csproj.CopyComplete
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\bin\Debug\RestSharp.dll
+C:\Users\Mahran\Source\Repos\CameraConsole\CameraConsole\bin\Debug\RestSharp.xml

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraConsole", "CameraConsole\CameraConsole.csproj", "{7A5391BE-68E5-4F0E-A6F9-2CD1A2F3CBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5391BE-68E5-4F0E-A6F9-2CD1A2F3CBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5391BE-68E5-4F0E-A6F9-2CD1A2F3CBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5391BE-68E5-4F0E-A6F9-2CD1A2F3CBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5391BE-68E5-4F0E-A6F9-2CD1A2F3CBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2089E783-21BC-4871-A6AC-19B98B47E9C6}
+	EndGlobalSection
+EndGlobal
