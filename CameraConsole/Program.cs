@@ -14,7 +14,7 @@ namespace CameraConsole
                 Console.WriteLine("--- Download data sample ---");
                 WebClient webclient = new WebClient();
                 webclient.Headers.Add("Referer", "http://datahus.se"); // Replace with your domain here
-                                                                            // Registrer a handler that will execute when download is completed.
+                                                                           
                 webclient.UploadStringCompleted += (obj, arguments) =>
                 {
                     if (arguments.Cancelled == true)
